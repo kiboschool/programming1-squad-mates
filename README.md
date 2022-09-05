@@ -20,8 +20,8 @@ Seun
 Ope
 ```
 
-But with your squad instead of the Kibo team.
+But with your squad members' names instead of the Kibo team.
 
-## Rubric
+## Testing
 
-There are no unit tests for this assignment. You'll have to run your program to see that it's working correctly.
+There are no unit tests for this assignment. Run your program to see that it's working correctly.
